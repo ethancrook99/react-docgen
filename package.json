@@ -1,5 +1,5 @@
 {
-  "name": "@ethancrook99/react-docgen",
+  "name": "react-docgen",
   "version": "5.3.1",
   "description": "A CLI and toolkit to extract information from React components for documentation generation.",
   "repository": {
